@@ -21,4 +21,4 @@ Background processing:
 ![screenShot](https://github.com/lok-i/PIXELATE_TECHNEX2019/blob/master/Images/ScreenShot.jpg)
 
 Robot Used:
-![robot](https://github.com/PIXELATE_TECHNEX2019/blob/master/Images/robot_used.jpg)
+![robot](https://github.com/lok-i/PIXELATE_TECHNEX2019/blob/master/Images/robot_used.jpg)
