@@ -18,7 +18,7 @@ Our Final Run:
  [![Watch the video](Images/Demo.png)](https://www.youtube.com/watch?v=dD-m3eNNoEc)
  
 Background processing:
-![screenShot](https://github.com/lok-i/PIXELATE_TECHNEX2019/blob/master/Images/ScreenShot.jpg)
+![ScreenShot](https://github.com/lok-i/PIXELATE_TECHNEX2019/blob/master/Images/ScreenShot.jpg)
 
 Robot Used:
 ![robot](https://github.com/lok-i/PIXELATE_TECHNEX2019/blob/master/Images/robot_used.jpg)
